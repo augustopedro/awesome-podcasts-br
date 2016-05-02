@@ -49,6 +49,7 @@ Nome | Status | :musical_note:
 [CodeNewbie](http://www.codenewbie.org/podcast)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codenewbie/id919219256)
 [CodePen Radio](https://blog.codepen.io/radio/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/codepen-radio/id824437159)
 [Developer Tea](https://developertea.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/developer-tea/id955596067)
+[EntreProgrammers](http://entreprogrammers.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/entreprogrammers-podcast/id875119779)
 [ Fragmented ](http://fragmentedpodcast.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/fragmented/id968779958)
 [Front-end Five](https://frontendfive.codeschool.com/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/front-end-five/id1003995196?mt=2)
 [Giant Robots](giantrobots.fm/)|![active](https://img.shields.io/badge/status-active-green.svg?style=flat-square)|[itunes](https://itunes.apple.com/us/podcast/giant-robots-smashing-into/id535121941)
